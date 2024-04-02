@@ -1,4 +1,5 @@
 ### Hi there, you are looking at Sandy Yu's Repositories 👋
+I am a undergraduate student in University of Toronto.
 Feel free to add issues to any of my repositories and reach out to me via my email if needed.
 
 <!--

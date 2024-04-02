@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, you are looking at Sandy Yu's Repositories 👋
+Feel free to add issues to any of my repositories and reach out to me via my email if needed.
 
 <!--
 **Jingying-yu/Jingying-yu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
